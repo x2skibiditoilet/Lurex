@@ -1,0 +1,4 @@
+py-cord>=2.4
+aiohttp>=3.9
+psycopg2-binary>=2.9
+lupa>=2.2
